@@ -30,7 +30,7 @@ const Footer = () => {
             </div>
           </div>
           <div class="mt-8 border-t border-gray-700 pt-4 text-center">
-            <p class="text-gray-400">&copy; 2025 Your Company. All rights reserved.</p>
+            <p class="text-gray-400 text-[0.9vw]">&copy; 2025 Your Company. All rights reserved.</p>
           </div>
         </div>
       </footer>
