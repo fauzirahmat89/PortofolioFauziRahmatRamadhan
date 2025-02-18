@@ -20,7 +20,7 @@ const Footer = () => {
                 <li><a href="#Sertifikat" class="hover:text-black">Galeri Proyek</a></li>
               </ul>
             </div>
-            <div class="">
+            <div class="" id="sosialmedia">
               <h3 class="text-[1.2vw] font-semibold">Follow Me</h3>
               <div class="flex space-x-4 mt-2 text-[0.9vw]">
                 <a href="https://github.com/fauzirahmat89" class="text-gray-400 hover:text-black">Github</a>

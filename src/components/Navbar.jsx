@@ -58,7 +58,7 @@ const Navbar = () => {
             <div className="social flex flex-row items-center gap-2">
                 <ul class="whitespace-nowrap">
                     <li>
-                        <a href="#" class="bg-sky-400 px-5 py-2 rounded-full text-white hover:bg-sky-500 transition-all">Social Media</a>
+                        <a href="#sosialmedia" class="bg-sky-400 px-5 py-2 rounded-full text-white hover:bg-sky-500 transition-all">Social Media</a>
                     </li>
                 </ul>
                 <i class="ri-menu-3-line text-3xl lg:hidden" onClick={handleClick}></i> 
